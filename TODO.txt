@@ -1,0 +1,7 @@
+-PROFILE
+-save profile data to that player's save file
+
+-RULES
+- the ability to castle
+- winning/losing
+- pawns move_vec is (0, 2)/(0, -2) for first move
